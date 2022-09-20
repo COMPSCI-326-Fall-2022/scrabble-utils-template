@@ -1,4 +1,5 @@
 'use strict'; // Don't touch me.
+import { dictionary } from './dictionary.js';
 
 /**
  * This function checks whether a given word can be constructed with the available tiles.
