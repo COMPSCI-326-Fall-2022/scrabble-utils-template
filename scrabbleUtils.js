@@ -43,3 +43,6 @@ function possibleWords(availableTiles) {
 function bestPossibleWords(availableTiles) {
     // TODO
 }
+
+// Export functions.
+export { baseScore, bestPossibleWord, canConstructWord, constructWord, possibleWords };
