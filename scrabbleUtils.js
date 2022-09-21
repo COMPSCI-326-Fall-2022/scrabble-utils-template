@@ -45,4 +45,4 @@ function bestPossibleWords(availableTiles) {
 }
 
 // Export functions.
-export { baseScore, bestPossibleWord, canConstructWord, constructWord, possibleWords };
+export { baseScore, bestPossibleWords, canConstructWord, possibleWords };
